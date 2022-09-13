@@ -3,6 +3,8 @@
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Elevenv&count_private=true&include_all_commits=true&theme=github_dark&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elevenv&layout=compact&count_private=true&include_all_commits=true&theme=github_dark&langs_count=10" />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Elevenv&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" />
+
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Elevenv&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
 
 ---
