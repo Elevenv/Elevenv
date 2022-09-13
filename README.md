@@ -1,4 +1,4 @@
-[![MasterHead](https://im3.ezgif.com/tmp/ezgif-3-809a6fe78a.gif)](https://elevenv.github.io)
+[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://elevenv.github.io)
 <h1 align="center">Hi 👋, I'm Vitthal Jadhav</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
