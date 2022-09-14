@@ -5,18 +5,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yd0369&label=Profile%20views&color=0e75b6&style=flat" alt="Elevenv" /> </p>
 
 <style>
-* {
-  box-sizing: border-box;
-}
 
 .column {
+  box-sizing: border-box;
   float: left;
   width: 50%;
   padding: 5px;
 }
 
-/* Clearfix (clear floats) */
 .row::after {
+  box-sizing: border-box;
   content: "";
   clear: both;
   display: table;
@@ -43,7 +41,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Elevenv&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Elevenv" />
   </div>
   <div class="column">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Elevenv&show_icons=true&locale=en&theme=tokyonight" alt="Elevenv" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Elevenv&show_icons=true&locale=en&theme=tokyonight" style="width:70%" alt="Elevenv" />
 </div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Elevenv&&theme=tokyonight" alt="Elevenv" /></p>
