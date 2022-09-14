@@ -14,7 +14,6 @@
 }
 
 .row::after {
-  box-sizing: border-box;
   content: "";
   clear: both;
   display: table;
@@ -36,12 +35,24 @@
 [![Vitthal Jadhav's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Elevenv&&theme=xcode)](https://github.com/Elevenv)
 
 
-<div class="row">
-  <div class="column">
+<div class="row" style="content: "";
+  clear: both;
+  display: table;">
+  
+  <div class="column" style="box-sizing: border-box;
+  float: left;
+  width: 50%;
+  padding: 5px;">
+    
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Elevenv&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Elevenv" />
   </div>
-  <div class="column">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Elevenv&show_icons=true&locale=en&theme=tokyonight" style="width:70%" alt="Elevenv" />
+  
+  <div class="column" style="box-sizing: border-box;
+  float: left;
+  width: 50%;
+  padding: 5px;">
+    
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Elevenv&show_icons=true&locale=en&theme=tokyonight" alt="Elevenv" />
 </div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Elevenv&&theme=tokyonight" alt="Elevenv" /></p>
