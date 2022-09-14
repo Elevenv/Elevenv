@@ -20,6 +20,6 @@
  
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Elevenv&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Elevenv" />
     
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Elevenv&show_icons=true&locale=en&theme=tokyonight" width=54% alt="Elevenv" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=Elevenv&show_icons=true&locale=en&theme=tokyonight" width=53% alt="Elevenv" />
  <br><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Elevenv&&theme=tokyonight" alt="Elevenv" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Elevenv&&theme=tokyonight" alt="Elevenv" />
