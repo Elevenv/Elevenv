@@ -4,6 +4,24 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yd0369&label=Profile%20views&color=0e75b6&style=flat" alt="Elevenv" /> </p>
 
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
 
 - 🔭 I’m currently working on **Autonomous Navigation Bot**
 
@@ -19,8 +37,13 @@
 
 [![Vitthal Jadhav's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Elevenv&&theme=xcode)](https://github.com/Elevenv)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Elevenv&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Elevenv" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Elevenv&show_icons=true&locale=en&theme=tokyonight" alt="Elevenv" /></p>
+<div class="row">
+  <div class="column">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Elevenv&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Elevenv" />
+  </div>
+  <div class="column">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Elevenv&show_icons=true&locale=en&theme=tokyonight" alt="Elevenv" />
+</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Elevenv&&theme=tokyonight" alt="Elevenv" /></p>
