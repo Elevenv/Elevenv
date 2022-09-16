@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Autonomous Navigation Bot**
 
-- 🌱 I’m currently learning **AI , ML**
+- 🌱 I’m currently exploring **AI , PYTHON**
 
 - 💬 Ask me about **PYTHON , MEN , SQL, JAVA**
 
