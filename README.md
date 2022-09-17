@@ -26,4 +26,4 @@
 
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/0Eleven?ext=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/0Eleven?theme=dark)
