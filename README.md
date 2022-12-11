@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently exploring **AI , PYTHON**
 
-- 💬 Ask me about **PYTHON , MEN , LINUX , DJANGO , NETWORKING , SQL, JAVA**
+- 💬 Ask me about **PYTHON , MERN , LINUX , DJANGO , SQL , JAVA**
 
 - 📫 How to reach me **https://elevenv.github.io/**
 <br>
